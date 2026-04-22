@@ -9,5 +9,3 @@ Next, I learned about the Design Thinking Process. Design thinking means using d
 I also learned about storytelling. Storytelling helps designers empathize with users by sharing their experiences and emotions. Telling a user's story makes it easier to understand their needs and design better solutions for them.
 
 Overall, Unit 2 taught me that good web design starts with understanding people. Design thinking gives me a process to follow, and storytelling helps me connect with users on a deeper level. I now see design as a way to solve problems, not just make things look pretty.
-
-
